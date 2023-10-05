@@ -1,7 +1,7 @@
 ---
 layout: "layouts/base.html"
 title: "About us"
-bannerContent: "This is a little paragraph about the company."
+bannerContent: "This is a little paragraph about the bran."
 pageId: "about"
 ---
 
